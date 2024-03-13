@@ -62,6 +62,7 @@ library
     , cardano-slotting
     , cborg
     , containers
+    , liquidhaskell ==0.9.6.3
     , mtl
     , nothunks
     , ouroboros-consensus      ^>=0.12
